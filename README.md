@@ -5,7 +5,7 @@
 - 📫 Reach out to me on my email: stefanroets00@gmail.com
 - 😄 Pronouns: Only 2
 - ⚡ Fun fact: I love to make my own projects to make my life easier
-
+- 🎮 My itch.io profile: https://musclecrampstudio.itch.io/
 <!---
 StefanRoets06/StefanRoets06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
