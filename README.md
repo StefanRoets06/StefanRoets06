@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing, computer science and game development with unity engine
 - 🌱 I’m currently learning c#, unity netwoking and python
 - 💞️ I’m looking to collaborate on a game dev project
-- 📫 Reach out to me on my email: stefanroets00@gmail.com
+- 📫 Reach out to me on my email or discord: stefanroets00@gmail.com https://discord.com/users/1173683964184113163
 - 😄 Pronouns: Only 2
 - ⚡ Fun fact: I love to make my own projects to make my life easier
 - 🎮 My itch.io profile: https://musclecrampstudio.itch.io/
