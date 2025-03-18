@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**StefanRoets06/StefanRoets06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Hi there 👋, I'm Stefan Roets</h1>
 
-Here are some ideas to get you started:
+  <p>
+    A curious Computer Science student on a journey to explore the exciting world of software development and game creation!
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=StefanRoets06&count=true&label=Views" alt="StefanRoets06"/>
+
+  <br/>
+  <br/>
+
+</div>
+
+## 💻 About Me
+
+I'm a first-year Computer Science student (Class of 2025) with a deep passion for game development. My main focus right now is using the **Unity** engine. I enjoy bringing creative ideas to life through code and am constantly learning.
+
+## 🛠️ Skills
+
+* **Languages:** C#, Java (Basic), Python (Basic)
+* **Game Engine:** Unity, Godot
+* **Tools & Technologies:** Firebase, Gemini API, Git, GitHub, itch.io
+* **Other:** Problem Solving, Eager Learner, Fast Learner
+
+## 🌱 Currently Working On
+
+I'm currently developing an exciting indie game project (details kept a little secret for now 😉)! Follow me to see my progress.
+
+## 🔭 Learning & Goals
+
+* Completing my 3-year Computer Science degree.
+* Publishing my first indie game within the next three years.
+* Continuously expanding my knowledge in software development.
+
+## ✨ Featured Projects
+
+You can find some of the tools and basic applications I've created on my itch.io page. Check them out!
+
+## 🔗 Links
+
+* [LinkedIn](https://www.linkedin.com/in/stefan-roets-204020357/)
+* [Itch.io](https://musclecrampstudio.itch.io/)
+
+## 📫 Let's Connect!
+
+Feel free to reach out if you have any questions, suggestions, or just want to connect!
