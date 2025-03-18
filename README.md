@@ -43,6 +43,7 @@ You can find some of the tools and basic applications I've created on my itch.io
 
 * [LinkedIn](https://www.linkedin.com/in/stefan-roets-204020357/)
 * [Itch.io](https://musclecrampstudio.itch.io/)
+* [Discord](https://discord.com/users/1173683964184113163)
 
 ## 📫 Let's Connect!
 
