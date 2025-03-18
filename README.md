@@ -11,7 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=StefanRoets06&count=true&label=Views" alt="StefanRoets06"/>
 
   <br/>
-  <br/>
 
 </div>
 
