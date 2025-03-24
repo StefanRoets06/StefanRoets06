@@ -27,7 +27,7 @@ I'm a first-year Computer Science student (Class of 2025) with a deep passion fo
 
 ## 🌱 Currently Working On
 
-I'm currently developing an exciting indie game project (details kept a little secret for now 😉)! Follow me to see my progress.
+I'm currently developing an exciting indie game project (details kept a little secret for now)! Follow me to see my progress.
 
 ## 🔭 Learning & Goals
 
