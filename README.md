@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there 👋, Im Stefan Roets</h1>
+  <h1>Hi there 👋, I'm Stefan Roets</h1>
 
   <p>
     A curious Computer Science student on a journey to explore the exciting world of software development and game creation!
