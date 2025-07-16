@@ -49,4 +49,4 @@ You can find some of the tools and basic applications I've created on my itch.io
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
-* [Countdown to my death](https://stefanroets06.github.io/Countdown-to-my-death)
+[Countdown to my death](https://stefanroets06.github.io/Countdown-to-my-death)
