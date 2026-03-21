@@ -37,7 +37,7 @@ I'm currently not working on any major projects.
 
 ## Featured Projects
 
-You can find some of the tools and basic applications I've created on my itch.io page. Check them out!
+You can find some of the tools and basic applications I've created on my Itch.io page. Check them out!
 
 ## 🔗 Links
 
