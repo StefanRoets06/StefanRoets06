@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a second-year Computer Science student (2025) with a deep passion for game development. My main focus right now is using the **Unity** engine. I enjoy bringing creative ideas to life through code and am constantly learning.
+I'm a second-year Computer Science student with a deep passion for game development. My main focus right now is using the **Unity** engine. I enjoy bringing creative ideas to life through code and am constantly learning.
 
 ## Skills
 
