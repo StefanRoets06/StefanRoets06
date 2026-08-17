@@ -9,7 +9,14 @@
   <br/>
 
   <img src="https://komarev.com/ghpvc/?username=StefanRoets06&count=true&label=Views" alt="StefanRoets06"/>
-
+  
+  ![C#](https://img.shields.io/badge/--239120?logo=c-sharp&logoColor=white&label=C%23)
+  ![Java](https://img.shields.io/badge/--ED8B00?logo=java&logoColor=white&label=Java)
+  ![Python](https://img.shields.io/badge/--3776AB?logo=python&logoColor=white&label=Python)
+  ![Lua](https://img.shields.io/badge/--2C2D72?logo=lua&logoColor=white&label=Lua)
+  
+  ![Unity](https://img.shields.io/badge/--000000?logo=unity&logoColor=white&label=Unity)
+  ![Godot](https://img.shields.io/badge/--478cbf?logo=godot-engine&logoColor=white&label=Godot)
   <br/>
 
 </div>
