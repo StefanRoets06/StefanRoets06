@@ -3,7 +3,7 @@
   <h1>Hi there, I'm Stefan Roets</h1>
 
   <p>
-    A curious Computer Science student on a journey to explore the world of software development and game development!
+    A Computer Science student in the world of software and game development!
   </p>
 
   <br/>
@@ -23,13 +23,13 @@
 
 ## About Me
 
-I'm a second-year Computer Science student with a deep passion for game development. My main focus right now is using the **Unity** engine. I enjoy bringing creative ideas to life through code and am constantly learning.
+I'm a second-year Computer Science student with a passion for game development. I am constantly learning.
 
 ## Skills
 
 * **Languages:** C#, Java, Python, Lua
 * **Game Engine:** Unity, Godot
-* **Tools & Technologies:** Firebase, Gemini API, Git, GitHub, itch.io, AWS, Bear Lib Terminal
+* **Tools & Technologies:** Firebase, Gemini API, Git, GitHub, itch.io, AWS, Bear Lib Terminal, Cloudflare
 * **Other:** Problem Solving, Eager Learner, Fast Learner
 
 ## Currently Working On
